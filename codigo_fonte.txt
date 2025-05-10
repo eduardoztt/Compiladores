@@ -1,0 +1,12 @@
+int numero = 22;
+float variavelll = 2.555
+
+if(numero == 34){
+     seila;@
+}else{}
+
+return @
+&
+
+int cinco5
+if2(
