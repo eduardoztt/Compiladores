@@ -1,12 +1,40 @@
-int numero = 22;
-float variavelll = 2.555
+{
 
-if(numero == 34){
-     seila;@
-}else{}
+    int x
+    float y;
+    string nome;
+    bool ativo;
+    x = 10;
+    y = 5.5;
+    nome = "texto";
+    ativo = true;
 
-return @
-&
+    if(x > 5){
+        print(x);
+        print(" é maior que 5");
+    } else{	
+        print(x);
+        print(" não é maior que 5");
+    };
+    
+    for(i = 0; i < 10; +1){
+        print(i);
+    };
 
-int cinco5
-if2(
+g
+     soma(x,y);
+     resultado = soma(x, y);
+     resultado = 2;
+
+    print(resultado);
+
+    return;
+}
+
+
+
+function int soma(int a, float b){
+    int total;
+    total = a + b;
+    return total;
+};
